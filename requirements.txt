@@ -1,0 +1,20 @@
+# FastAPI - Modern web framework for building APIs
+fastapi==0.109.0
+
+# Uvicorn - ASGI server to run FastAPI application
+uvicorn[standard]==0.27.0
+
+# Motor - Async MongoDB driver for Python
+motor==3.3.2
+
+# PyMongo - MongoDB driver (required by Motor)
+pymongo==4.6.1
+
+# Pydantic Settings - Manage application configuration
+pydantic-settings==2.1.0
+
+# Python Dotenv - Load environment variables from .env file
+python-dotenv==1.0.0
+
+# Email Validator - Validate email addresses in Pydantic models
+email-validator==2.1.0
